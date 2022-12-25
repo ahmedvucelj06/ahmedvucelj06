@@ -14,6 +14,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedvucelj06&show_icons=true&locale=en&layout=compact" alt="ahmedvucelj06" /></p>
 
 
-## Snake is eating my graph!
+## Snake  eating my graph!
 
 ![snake gif](https://github.com/ahmedvucelj06/ahmedvucelj06/blob/output/github-contribution-grid-snake.gif)
