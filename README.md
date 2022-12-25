@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Vucelj</h1>
  • 🔭 I’m currently working on my Portfolio Website
- 
-
- •🌱 I’m currently learning **JavaScript and C++**
+ • 🌱 I’m currently learning **JavaScript and C++**  
  • 📫 How to reach me **ahmedv5227@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
